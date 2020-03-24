@@ -20,7 +20,6 @@ description: Minimalism is a jekyll theme for minimalist
 
 github: https://github.com/showzeng/Minimalism
 rss: true
-remote_theme: showzeng/Minimalism
 
 plugins:
   - rouge
@@ -35,3 +34,4 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+remote_theme: showzeng/Minimalism
