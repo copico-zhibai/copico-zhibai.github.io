@@ -1,4 +1,4 @@
-excerpt_separator: <!--more-->
+# excerpt_separator: <!--more-->
 
 sass:
   style: compressed
@@ -36,7 +36,7 @@ copyright_time: 2020
 
 # --- 文章列表页 ---
 # 文章列表是否显示摘要
-# show_excerpt: true
+show_excerpt: true
 # --- 文章页 ---
 
 
