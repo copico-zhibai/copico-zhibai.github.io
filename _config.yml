@@ -4,7 +4,7 @@ sass:
 defaults:
   -
     scope:
-      path: ""
+      path: "pages"
       type: "posts"
     values:
       layout: "post"
