@@ -4,13 +4,13 @@ sass:
 defaults:
   -
     scope:
-      path: "pages"
+      path: ""
       type: "posts"
     values:
       layout: "post"
   -
     scope:
-      path: "assets/img"
+      path: "pages/assets/img"
     values:
       image: true
 
