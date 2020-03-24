@@ -23,7 +23,7 @@ title: Copico's Blog
 name: Copico
 # 下面填写你的座右铭或者是个性签名
 description: 如果你不出去走走，你就会以为这就是世界。
-你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
+# 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
 url: https://copico-zhibai.github.io
 # 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
 copyright_time: 2020
