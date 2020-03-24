@@ -101,13 +101,5 @@ copy_with_declaration: true
 # theme: jekyll-theme-minimalism
 remote_theme: showzeng/Minimalism
 
-plugins:
-  - rouge
-  - kramdown
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
-
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  - new
