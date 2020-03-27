@@ -4,12 +4,12 @@ sass:
   style: compressed
 
 defaults:
-  - scope:
+  -scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  - scope:
+  -scope:
       path: "assets/img"
     values:
       image: true
