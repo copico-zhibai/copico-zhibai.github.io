@@ -4,14 +4,12 @@ sass:
   style: compressed
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: "assets/img"
     values:
       image: true
@@ -102,12 +100,12 @@ lock_menu: true
 remote_theme: showzeng/Minimalism
 
 plugins:
-   - rouge
-   - kramdown
-   - jekyll-feed
-   - jekyll-seo-tag
-   - jemoji
+  - rouge
+  - kramdown
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
 
- exclude:
-   - Gemfile
-   - Gemfile.lock
+  exclude:
+    - Gemfile
+    - Gemfile.lock
