@@ -4,22 +4,14 @@ sass:
   style: compressed
 
 defaults:
-<<<<<<< HEAD
   -
     scope:
-=======
-  -scope:
->>>>>>> f7b1c482f88f91222e023beea3dc03f498284453
       path: ""
       type: "posts"
     values:
       layout: "post"
-<<<<<<< HEAD
   -
     scope:
-=======
-  -scope:
->>>>>>> f7b1c482f88f91222e023beea3dc03f498284453
       path: "assets/img"
     values:
       image: true
